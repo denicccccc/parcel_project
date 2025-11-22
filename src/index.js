@@ -1,3 +1,3 @@
-import { getMessage } from "./srs.js"
+import { getMessage } from'./src.js'
 
 document.getElementById("title").textContent = getMessage();
